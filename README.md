@@ -2,7 +2,10 @@
 Este proyecto busca predecir el peso de los pollos en una empresa avícola con más de 40 años en el mercado. El objetivo es optimizar la toma de decisiones en el proceso de beneficio de las aves mediante técnicas de Machine Learning, asegurando que alcancen el peso comercial ideal.
 
 Se utilizó la metodología **CRISP-DM** para estructurar el análisis y desarrollo del modelo, pasando por las etapas de comprensión del negocio, análisis exploratorio, preprocesamiento, modelado y evaluación.
-
+## Integrantes del grupo
+Juan Sebastián Ballén
+Alexander Rozo
+Liany Villa
 ## 📊 Dataset
 El conjunto de datos fue extraído del sistema de información de la empresa avícola e incluye variables relevantes como:
 - **Variables numéricas:** Peso, PesoGr, Consumo, Unidades, Edad, Temperatura, Densidad, Consumo Agua, Humedad, HorasLuz.
